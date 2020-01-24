@@ -1,0 +1,10 @@
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\bin\Debug\SeleniumTestTool.exe.config
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\bin\Debug\SeleniumTestTool.exe
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\bin\Debug\SeleniumTestTool.pdb
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\bin\Debug\WebDriver.dll
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\bin\Debug\WebDriver.xml
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.csprojResolveAssemblyReference.cache
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.csproj.CoreCompileInputs.cache
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.csproj.CopyComplete
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.exe
+C:\Users\Yami\source\repos\SeleniumTestTool\SeleniumTestTool\obj\Debug\SeleniumTestTool.pdb
